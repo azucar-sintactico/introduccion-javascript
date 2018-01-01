@@ -21,8 +21,6 @@ const david = new Empleado('David', 'programador');
 david.saludar();
 david.presentarse();
 
-console.log(Empleado.prototype);
-
 console.log('david es una instancia de Empleado?', david instanceof Empleado);
 
 // Javascript clone los prototipos en forma de cadena, hasta que llega al prototipo que es null

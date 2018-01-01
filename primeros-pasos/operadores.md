@@ -3,6 +3,7 @@
 ## Operadores matematicos
 
 | Operador | Simbolo |
+| ------------- | ------------- |
 |   Suma   |    +    |
 |  Resta   |    -    |
 | Producto |    *    |
@@ -11,6 +12,7 @@
 ## Operadores logicos
 
 | Operador | Simbolo |
+| ------------- | ------------- |
 |   Igualdad   |    ===   |
 |  Diferente de   |    !==    |
 | Mayor que |    >    |
